@@ -58,5 +58,8 @@ fully connected(input vector(1024)->number of class)
 define VggNet class
 ====
 
+-import library
+
+
 
 
