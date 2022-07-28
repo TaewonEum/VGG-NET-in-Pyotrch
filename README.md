@@ -58,7 +58,7 @@ fully connected(input vector(1024)->number of class)
 define VggNet class
 ====
 
--import library
+- import library
 
 ![image](https://user-images.githubusercontent.com/104436260/181405713-47bb9619-1354-4c6d-aedc-2065c12932d5.png)
 
