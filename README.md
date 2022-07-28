@@ -80,4 +80,5 @@ define VggNet class
 
 - VGG16 Models define
 
+![image](https://user-images.githubusercontent.com/104436260/181408086-95d689c7-c49f-4cfd-a4d3-38bf9c46966d.png)
 
