@@ -66,3 +66,18 @@ define VggNet class
 
 ![image](https://user-images.githubusercontent.com/104436260/181405996-2e82b503-8127-4315-ac54-780a09e8950b.png)
 
+-먼저 VGGnet이라는 이름으로 Class 생성
+
+-VGG11 ,VGG13, VGG16, VGG19 모델 구조 딕셔너리로 define
+
+-Convolution층 create_conv_laters함수 활용하여 정의
+
+-Fully Connected layer define
+
+-forward 층에서 모델 직접 학습
+
+-create_conv_laters define-> VGG.types받아서 숫자면 convolution->batch->activation M이면 Maxpooling진행
+
+- VGG16 Models define
+
+
