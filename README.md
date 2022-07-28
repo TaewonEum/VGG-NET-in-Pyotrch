@@ -62,4 +62,7 @@ define VggNet class
 
 ![image](https://user-images.githubusercontent.com/104436260/181405713-47bb9619-1354-4c6d-aedc-2065c12932d5.png)
 
+- VGGNet define
+
+![image](https://user-images.githubusercontent.com/104436260/181405996-2e82b503-8127-4315-ac54-780a09e8950b.png)
 
