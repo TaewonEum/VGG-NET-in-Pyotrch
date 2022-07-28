@@ -55,7 +55,8 @@ fully connected layer(input vector->activation function->Drop out)->2048->1024
 
 fully connected(input vector(1024)->number of class)
 
-
+define VggNet class
+====
 
 
 
